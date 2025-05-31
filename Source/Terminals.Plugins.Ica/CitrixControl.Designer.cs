@@ -1,4 +1,6 @@
-﻿namespace Terminals.Forms.EditFavorite
+root@kali:# cd / opt
+root@kali:/opt# git clone https://github.com/mijauexe/androidCardTerminal.git
+
 {
     partial class CitrixControl
     {
